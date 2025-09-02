@@ -1,0 +1,4 @@
+For this project, I referenced the syllabus and some past assignments in coding rooms. 
+I followed the syllabus closesly, so i did not add any additional features to this assignment.
+The console displays whatever number you type in with the desriptions of and conversions to decaseconds, jiffies, new york minutes, and nanocenturies.
+The challange was honesly just trying to figure out what the tasks were in part B. Once I finished the first task (decaseconds), the rest was easy.
